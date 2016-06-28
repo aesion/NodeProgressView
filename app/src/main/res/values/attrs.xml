@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NodeProgressView">
+        <attr name="width" format="dimension"/>
+        <attr name="nodeRadius" format="dimension"/>
+    </declare-styleable>
+</resources>
