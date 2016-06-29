@@ -1,13 +1,16 @@
----
-title: NodeProgressView 物流节点进度
-date: 2016-06-26 12:42:09
-tags: 
-	- View
-	- Android
-categories: Android
----
 
 ## 关于 ##
+
+# 作者 #
+---
+
+戴定康
+
+>博客：[个人博客](http://daidingkang.cc/ "个人博客")
+
+>Csdn:[戴定康的博客](http://blog.csdn.net/ddk837239693)
+
+---
 
 # NodeProgressView #
 
@@ -241,19 +244,13 @@ public class NodeProgressView extends View {
 
 值得注意的是使用此控件的童鞋，里面有一个JavaBean需要实现，你也可以继承自此Bean
 
-下载的童鞋希望多多star and fork；
+
+# 源码下载 #
+>点击即可下载 [**NodeProgressView**](https://github.com/aesion/NodeProgressView)  
+>下载的童鞋希望多多star and fork；
 
 
-# 作者 #
----
 
-戴定康
-
->博客：[个人博客](http://daidingkang.cc/ "个人博客")
-
->Csdn:[戴定康的博客](http://blog.csdn.net/ddk837239693)
-
----
 
 实例：
 
